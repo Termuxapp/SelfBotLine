@@ -16,7 +16,7 @@ Cara Install Self Bot :
 - Ketik -> `pip3 install pytz`
 - Ketik -> `pip3 install humanfriendly`
 - Ketik -> `pip3 install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/BotLinePython3`
+- Ketik -> `git clone https://github.com/termuxapp/SelfBotLine`
 - Ketik -> `cd BotLinePython3`
 - Ketik -> `python3 Nadyasb.py`
 
@@ -26,12 +26,11 @@ Cara Menjalankan Bot Kembali :
 - Ketik -> `python3 Nadyasb.py`
 
 
-Credit By@ Nadya Sutjiadi.
+Credit By@ mr_musa.
 ------
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
+- `Follow My Instagram : sms_mo`
+- `Add My ID telegram : t.me/mr_musa`
 
 Thx To :
 ------
-- `LINE-TCR TEAM`
-- `HELLO-WORLD`
+- `termuxapp`
