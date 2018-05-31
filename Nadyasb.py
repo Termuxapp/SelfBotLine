@@ -11,9 +11,9 @@ from googletrans import Translator
 #==============================================================================#
 botStart = time.time()
 
-#nadya = LINE()
-#nadya = LINE("Et3aXXcCzdfGwbuiAz63.PO8ALbTP1cp9nrA76GZqSW.ww1c6tSNyQmPN9EeVZQ79wXF9eA+LJOvBMEsE9iwEgg=")
-nadya = LINE("mohammadmosazade47@gmail.com","mohammad1")
+nadya = LINE()
+#nadya = LINE("Auto token")
+#nadya = LINE("EMAIL","PASSWORD")
 nadya.log("Auto Token : " + str(nadya.authToken))
 channelToken = nadya.getChannelResult()
 nadya.log("Channel Token : " + str(channelToken))
@@ -76,7 +76,7 @@ def sendMessageWithMention(to, mid):
         
 def helpmessage():
     helpMessage = "╔═══════════════" + "\n" + \
-                  "╠♥ ✿✿✿ MUSAZADEH ✿✿✿ ♥" + "\n" + \
+                  "╠♥ ✿✿✿ mr musa ✿✿✿ ♥" + "\n" + \
                   "║" + "\n" + \
                   "╠══✪〘 Help Message 〙✪══" + "\n" + \
                   "║" + "\n" + \
@@ -151,7 +151,7 @@ def helpmessage():
                   "╠➥ SearchImage「Search」" + "\n" + \
                   "╠➥ ScreenshootWebsite「LinkUrl」" + "\n" + \
                   "║" + "\n" + \
-                  "╚═〘 Credits By: ©MUSAZADEH  〙"
+                  "╚═〘 Credits By: ©MUSA  〙"
     return helpMessage
     
 def helptexttospeech():
